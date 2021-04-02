@@ -23,7 +23,7 @@ Import this in your pom.xml file.
 </dependency>
 ```
 
-Get version [here](https://github.com/thanhvoquang/mvc-core/tree/gh-pages/com/k3rcaft/mvc-core).
+Get version [here](https://search.maven.org/search?q=g:com.github.thanhvoquang).
 
 ## Reference 
 * [Lombok](https://projectlombok.org/)
